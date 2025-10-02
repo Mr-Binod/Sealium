@@ -55,13 +55,13 @@
 ## 화면 구성 
 ### desktop view
 <label >관리자 페이지</label> </br> 
-[▶ 관리자 페이지 영상](sealium-backend-contract/did-backend/uploads/adminsignup.mp4)
+<img src='sealium-backend-contract/did-backend/uploads/adminsignup.gif' />
 <br/><br/>
 <label>클라이언트 페이지</label></br>
-[▶ 클라이언트 페이지 영상](sealium-backend-contract/did-backend/uploads/clientsealium.mp4)
+<img src='sealium-backend-contract/did-backend/uploads/clientsealium.gif' />
 <br/><br/>
 <label>검증 페이지</label></br>
-[▶ 검증 페이지 영상](sealium-backend-contract/did-backend/uploads/verify.mp4)
+<img src='sealium-backend-contract/did-backend/uploads/verify.gif' />
 <br/><br/>
 
 
