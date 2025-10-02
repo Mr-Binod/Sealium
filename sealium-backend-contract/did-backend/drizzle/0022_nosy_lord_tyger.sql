@@ -1,0 +1,1 @@
+ALTER TABLE "user_vc" DROP COLUMN "requestDate";

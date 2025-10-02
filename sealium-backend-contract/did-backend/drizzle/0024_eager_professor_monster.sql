@@ -1,0 +1,1 @@
+ALTER TABLE "user_vc" ADD COLUMN "description" varchar(255) NOT NULL;

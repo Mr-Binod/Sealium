@@ -1,0 +1,1 @@
+ALTER TABLE "vc_confirmed_logs" DROP COLUMN "issueDate";

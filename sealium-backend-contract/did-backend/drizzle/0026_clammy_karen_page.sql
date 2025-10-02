@@ -1,0 +1,1 @@
+ALTER TABLE "vc_request_logs" ADD COLUMN "rejectmsg" varchar(300);

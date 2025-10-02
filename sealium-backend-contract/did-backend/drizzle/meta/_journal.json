@@ -1,0 +1,188 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1754883583947,
+      "tag": "0000_little_skullbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755247005313,
+      "tag": "0002_uneven_fabian_cortez",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755578881453,
+      "tag": "0003_needy_microbe",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1755605126367,
+      "tag": "0004_premium_strong_guy",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1755605396781,
+      "tag": "0005_lucky_morgan_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1755605430017,
+      "tag": "0006_breezy_puck",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1755609026322,
+      "tag": "0007_panoramic_sersi",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1755692604455,
+      "tag": "0008_normal_layla_miller",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1756274578595,
+      "tag": "0009_fresh_sebastian_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1756342021133,
+      "tag": "0010_tiresome_xavin",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1756351219379,
+      "tag": "0011_slim_prowler",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1756358078490,
+      "tag": "0012_eminent_giant_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1756374679835,
+      "tag": "0013_uneven_mongu",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1756379903606,
+      "tag": "0014_tiny_lucky_pierre",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1756382929671,
+      "tag": "0015_clever_solo",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1756794946745,
+      "tag": "0016_bizarre_mystique",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1757032034364,
+      "tag": "0017_talented_vulcan",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1757061770459,
+      "tag": "0018_overjoyed_moira_mactaggert",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1757298487420,
+      "tag": "0019_overconfident_mister_fear",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "7",
+      "when": 1757298857916,
+      "tag": "0020_whole_the_order",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "7",
+      "when": 1757299631128,
+      "tag": "0021_faithful_wild_child",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "7",
+      "when": 1757299799387,
+      "tag": "0022_nosy_lord_tyger",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "7",
+      "when": 1757386101288,
+      "tag": "0023_fresh_siren",
+      "breakpoints": true
+    },
+    {
+      "idx": 24,
+      "version": "7",
+      "when": 1757654741533,
+      "tag": "0024_eager_professor_monster",
+      "breakpoints": true
+    },
+    {
+      "idx": 25,
+      "version": "7",
+      "when": 1757743908299,
+      "tag": "0025_easy_jasper_sitwell",
+      "breakpoints": true
+    },
+    {
+      "idx": 26,
+      "version": "7",
+      "when": 1757846496792,
+      "tag": "0026_solid_famine",
+      "breakpoints": true
+    }
+  ]
+}

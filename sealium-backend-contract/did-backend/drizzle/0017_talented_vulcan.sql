@@ -1,0 +1,1 @@
+ALTER TABLE "admin_request" DROP COLUMN "phoneNumber";
